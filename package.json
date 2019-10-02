@@ -1,0 +1,14 @@
+{
+  "name": "@fatso83/run-in-mocha",
+  "version": "1.0.0",
+  "description": "Run a single test file programmatically from Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node integration-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.1"
+  }
+}
