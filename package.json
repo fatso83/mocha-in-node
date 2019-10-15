@@ -14,6 +14,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/sinonjs/sinon.git"
+    "url": "http://github.com/fatso83/run-in-mocha"
   }
 }
