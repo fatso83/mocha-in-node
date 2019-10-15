@@ -1,7 +1,8 @@
 {
   "name": "@fatso83/run-in-mocha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a single test file programmatically from Node.",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "test": "node integration-test.js"
