@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "mocha": "^6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sinonjs/sinon.git"
   }
 }
