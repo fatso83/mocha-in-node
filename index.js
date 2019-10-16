@@ -45,6 +45,6 @@ module.exports = function(module, options) {
   });
 
   // if we run the function before our tests our hit, they will be added twice
-  // to avoid this, we clear the globals after adding the tests have been added
+  // to avoid this, we clear the globals after adding the tests
   installGlobalDummies();
 };
